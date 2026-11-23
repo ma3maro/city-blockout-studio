@@ -1,0 +1,14 @@
+
+schema_version = "1.0.0"
+id = "city_blockout_studio"
+version = "1.1.0"
+name = "City Blockout Studio"
+tagline = "Lay out live cities from editable street and district curves"
+maintainer = "City Blockout Studio"
+type = "add-on"
+tags = ["3D View", "Modeling"]
+blender_version_min = "5.0.0"
+license = ["SPDX:GPL-3.0-or-later"]
+
+[build]
+paths_exclude_pattern = ["__pycache__/", "*.pyc"]
