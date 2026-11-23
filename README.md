@@ -4,7 +4,7 @@ Sketch roads and build a live, editable city in **Blender 5.0+**.
 
 ![Five generated cities loop from a downtown skyline to an old town, waterfront, industrial grid, and hillside neighborhood.](media/city-blockout-hero.gif)
 
-**[Download the add-on](https://github.com/ma3maro/city-blockout-studio/releases/latest/download/city-blockout-studio.zip)** · [Editable sample](https://github.com/ma3maro/city-blockout-studio/releases/latest/download/city-blockout-studio-sample.blend) · [Quick start](docs/quick-start.md)
+**[Download the add-on](downloads/city-blockout-studio.zip?raw=true)** · [Editable sample](downloads/city-blockout-studio-sample.blend?raw=true) · [Quick start](docs/quick-start.md)
 
 - **Draw the roads.** Sketch with junction snapping, import curves, and tune the width and building style on each side.
 - **Shape the city.** Paint or draw districts, fill enclosed blocks, and reserve parks or empty lots. Mix housing, offices, skyscrapers, civic buildings, and warehouses.
